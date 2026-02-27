@@ -43,7 +43,7 @@
 - 👻 [The Hacker Playbook 3](https://github.com/noticso/noticso-book-vault/blob/e5247b67ce7e25dd429fce30c9347dc9525c92e5/The_Hacker_Playbook_3_Practical_Guide_To_Penetration_Testing.pdf)
 ###### 🟠 Advanced
   - 🛸 [Hacking: The Art of Exploitation](https://github.com/noticso/noticso-book-vault/blob/ef5deecc6fff9462a10e23bb0c6e3a59f6c365e9/hacking_artofexploitation_2ndedition.pdf)
-  - 🚆 [Practical Binary Analysis](https://github.com/noticso/noticso-book-vault/blob/291965e80dfde45aeeb116eb74ffad2c982f56af/practicalbinaryanalysis_compressed.pdf)ù
+  - 🚆 [Practical Binary Analysis](https://github.com/noticso/noticso-book-vault/blob/291965e80dfde45aeeb116eb74ffad2c982f56af/practicalbinaryanalysis_compressed.pdf)
   - 🪽 [Gray Hat Hacking](https://github.com/noticso/noticso-book-vault/blob/e5247b67ce7e25dd429fce30c9347dc9525c92e5/Gray_Hat_Hacking.pdf)
  
  
