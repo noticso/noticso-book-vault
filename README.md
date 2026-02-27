@@ -24,6 +24,7 @@
   - 🔬 [Practical Malware Analysis](https://github.com/noticso/noticso-book-vault/blob/291965e80dfde45aeeb116eb74ffad2c982f56af/practicalmalwareanalysis.pdf)
 ###### 🟠 Advanced
   - 🚆 [Practical Binary Analysis](https://github.com/noticso/noticso-book-vault/blob/291965e80dfde45aeeb116eb74ffad2c982f56af/practicalbinaryanalysis_compressed.pdf)
+  - ✖️ [Reversing: Secrets of Reverse Engineering](https://github.com/noticso/noticso-book-vault/blob/b1a45c853e3e5fa7d9f0182d97304f5cf2f6d15b/Reversing_Secrets_of_Reverse_Engineering.pdf)
 
 ---
 
@@ -36,6 +37,7 @@
 - 🐰 [Black Hat Go](https://github.com/noticso/noticso-book-vault/blob/ef5deecc6fff9462a10e23bb0c6e3a59f6c365e9/blackhatgo.pdf)
 - 💻 [Attacking Network Protocols](https://github.com/noticso/noticso-book-vault/blob/ef5deecc6fff9462a10e23bb0c6e3a59f6c365e9/attackingnetworkprotocols_ebook.pdf)
 - ☁️ [Metasploit: The Penetration Tester's Guide](https://github.com/noticso/noticso-book-vault/blob/291965e80dfde45aeeb116eb74ffad2c982f56af/metasploit_apenetrationtestersguide.pdf)
+- 🗺️ [Real-World Bug Hunting](https://github.com/noticso/noticso-book-vault/blob/b1a45c853e3e5fa7d9f0182d97304f5cf2f6d15b/real-worldbughunting.pdf)
 ###### 🟠 Advanced
   - 🛸 [Hacking: The Art of Exploitation](https://github.com/noticso/noticso-book-vault/blob/ef5deecc6fff9462a10e23bb0c6e3a59f6c365e9/hacking_artofexploitation_2ndedition.pdf)
   - 🚆 [Practical Binary Analysis](https://github.com/noticso/noticso-book-vault/blob/291965e80dfde45aeeb116eb74ffad2c982f56af/practicalbinaryanalysis_compressed.pdf)
@@ -51,6 +53,7 @@
 ###### 🟠 Advanced
   - 🛸 [Hacking: The Art of Exploitation](https://github.com/noticso/noticso-book-vault/blob/ef5deecc6fff9462a10e23bb0c6e3a59f6c365e9/hacking_artofexploitation_2ndedition.pdf)
   - 🚆 [Practical Binary Analysis](https://github.com/noticso/noticso-book-vault/blob/291965e80dfde45aeeb116eb74ffad2c982f56af/practicalbinaryanalysis_compressed.pdf)
+  - 🧑‍🏫 [The IDA Pro Book](https://github.com/noticso/noticso-book-vault/blob/b1a45c853e3e5fa7d9f0182d97304f5cf2f6d15b/The_IDA_Pro_Book_2nd_Edition.pdf)
 
 ---
 
@@ -59,14 +62,18 @@
 ###### 🟡 Intermediate
   - 🎯 [Serious Cryptography](https://github.com/noticso/noticso-book-vault/blob/ef5deecc6fff9462a10e23bb0c6e3a59f6c365e9/seriouscrytography.pdf)
 ###### 🟠 Advanced
+
 </details>
 
 ---
 
 <details open>
-<summary>💡 Programming Languages</summary>
-  
-  ###### 🐍 Python
+<summary>💡 Software Engineering</summary>
+###### 🟢 Beginner
   - 🤖 [Automate The Boring Stuff With Python](https://github.com/noticso/books/blob/6522932bb3d2920237e5183f03e9124bf6a40f54/automatetheboringstuff.pdf)
+  - ℹ️ [The Pragmatic Programmer](https://github.com/noticso/noticso-book-vault/blob/b1a45c853e3e5fa7d9f0182d97304f5cf2f6d15b/The%20Pragmatic%20Programmer%20(2000%2C%20Addison%20Wesley%20Longman).pdf)
+###### 🟡 Intermediate
+  - ☕ [Effective Java](https://github.com/noticso/noticso-book-vault/blob/b1a45c853e3e5fa7d9f0182d97304f5cf2f6d15b/Effective%20Java%20(2017%2C%20Addison-Wesley).pdf)
+###### 🟠 Advanced
 </details>
 
