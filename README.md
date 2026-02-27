@@ -69,7 +69,9 @@
 
 <details open>
 <summary>💡 Software Engineering</summary>
+  
 ###### 🟢 Beginner
+  
   - 🤖 [Automate The Boring Stuff With Python](https://github.com/noticso/books/blob/6522932bb3d2920237e5183f03e9124bf6a40f54/automatetheboringstuff.pdf)
   - ℹ️ [The Pragmatic Programmer](https://github.com/noticso/noticso-book-vault/blob/b1a45c853e3e5fa7d9f0182d97304f5cf2f6d15b/The%20Pragmatic%20Programmer%20(2000%2C%20Addison%20Wesley%20Longman).pdf)
 ###### 🟡 Intermediate
