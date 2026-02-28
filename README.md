@@ -1,4 +1,7 @@
 # 📚 Noticso Book Vault 
+> [!IMPORTANT]  
+> This repository is public and open to everyone. Feel free to add any books you like.
+> 
 <details open>
 
 <summary>🌐 Cybersecurity</summary>
@@ -87,3 +90,22 @@
 ###### 🟠 Advanced
 </details>
 
+---
+
+<details open>
+<summary>🧠 Data Science & Machine Learning</summary>
+  
+###### 🟢 Beginner
+  
+  - 📊 [Data Science From Scratch](https://github.com/noticso/noticso-book-vault/blob/eaf7a104f387268ec44b214721c7b8483d89c164/data_science_from_scratch.pdf)
+  - 🎴 [Python Data Science Handbook](https://github.com/noticso/noticso-book-vault/blob/eaf7a104f387268ec44b214721c7b8483d89c164/python_data_science_handbook_compressed.pdf)
+  - 📖 [The Hundred-Page Machine Learning Book](https://github.com/noticso/noticso-book-vault/blob/eaf7a104f387268ec44b214721c7b8483d89c164/the_hundred_page_machine_learning_book_compressed.pdf)
+###### 🟡 Intermediate
+
+  - 🤲 [Hands-On Machine Learning](https://github.com/noticso/noticso-book-vault/blob/eaf7a104f387268ec44b214721c7b8483d89c164/hands_on_machine_learning_compressed.pdf)
+  - 🎙️ [Deep Learning With Python](https://github.com/noticso/noticso-book-vault/blob/eaf7a104f387268ec44b214721c7b8483d89c164/deep_learning_with_python_compressed.pdf)
+###### 🟠 Advanced
+
+  - 🪪 [Pattern Recognition and Machine Learning](https://github.com/noticso/noticso-book-vault/blob/eaf7a104f387268ec44b214721c7b8483d89c164/pattern_recognition_and_machine_learning_compressed.pdf)
+  - 🦋 [Deep Learning](https://github.com/noticso/noticso-book-vault/blob/eaf7a104f387268ec44b214721c7b8483d89c164/deep_learning_compressed.pdf)
+</details>
